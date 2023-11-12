@@ -24,3 +24,24 @@ I have been working as a realtor in a real estate agency for almost 20 years, bu
 2.VS code
 3.Figma
 4.Git, GitHub
+
+### Code example
+
+```
+function multiply(a, b){
+    return a * b;
+}
+
+let result = multiply(2, 2);
+alert(result);
+```
+
+### Education
+
+* Belarusian State University of Economics
+
+* Front-end developer courses at My IT-School
+
+### English
+
+**A2** (I used application **Duolingo** in smartphone within 2 years ) and I plan to take English courses to improve my level.
